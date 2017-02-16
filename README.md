@@ -9,10 +9,9 @@ Usage:
 
 Where
 
+```
 -apikey is Google API key with enabled pagespeed service
-
 -thirdparty Includes third party resources
-
 -mc -mw is mobile warning/critical score
-
 -dc -dw is desktop warning/critical score
+```
